@@ -1,0 +1,10 @@
+canvas{
+    border-radius: 15px;
+}
+
+.back{
+    background-color: black;
+    width: 80px;
+    border-radius: 15px;
+    float: right;
+}
